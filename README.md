@@ -37,7 +37,7 @@ $ npm -i
 # Run the application in development mode
 $ npm run dev
 
-# The application will open on the port: 3000 - go to http://localhost:5173
+# The application will open on the port: 5173 - go to http://localhost:5173
 
 ```
 
