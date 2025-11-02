@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="#"> MAchine Test </a>
+  <a href="#"> Machine Test </a>
 </h1>
 
 
