@@ -29,15 +29,15 @@ In addition, it is good to have an editor to work with the code like [VSCode] (h
 $ git clone git@github.com:ranjithpmankada/machine-test-1.git
 
 # Access the project folder in your terminal
-$ cd README-template
+$ cd machine-test-1
 
 # Install the dependencies
-$ npm
+$ npm -i
 
 # Run the application in development mode
-$ npm start
+$ npm run dev
 
-# The application will open on the port: 3000 - go to http://localhost:3000
+# The application will open on the port: 3000 - go to http://localhost:5173
 
 ```
 
